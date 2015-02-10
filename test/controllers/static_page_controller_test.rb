@@ -1,6 +1,6 @@
 require 'test_helper'
 
-class StaticPageControllerTest < ActionController::TestCase
+class StaticPagesControllerTest < ActionController::TestCase
 
   def setup
     @base_title = "Ruby on Rails Tutorial Sample App"
